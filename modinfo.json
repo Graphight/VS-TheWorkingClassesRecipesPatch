@@ -1,0 +1,10 @@
+{
+  "type": "content",
+  "modid": "TheWorkingClassesRecipesPatch",
+  "name": "The Working Classes Recipes Patch",
+  "authors": [
+    "Graphight"
+  ],
+  "description": "Simple recipe mod pulling out the working classes extra recipes for a 1.21 server.",
+  "version": "0.0.1"
+}
