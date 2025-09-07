@@ -1,7 +1,6 @@
 [
 	{
 		"ingredientPattern": "FF",
-		"requiresTrait": "clothier",
 		"ingredients": {
 			"F": {
 				"type": "item",

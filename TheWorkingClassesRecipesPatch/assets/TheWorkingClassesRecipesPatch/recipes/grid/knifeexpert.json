@@ -1,7 +1,6 @@
 [
 	{
 		"ingredientPattern": "KW",
-		"requiresTrait": "knifeexpert",
 		"ingredients": {
 			"K": {
 				"type": "item",
@@ -28,7 +27,6 @@
 	},
 	{
 		"ingredientPattern": "L_,RR,RR",
-		"requiresTrait": "knifeexpert",
 		"ingredients": {
 			"L": {
 				"type": "item",

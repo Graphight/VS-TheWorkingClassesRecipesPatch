@@ -1,7 +1,6 @@
 [
 	{
 		"ingredientPattern": "H,S",
-		"requiresTrait": "mason",
 		"ingredients": {
 			"H": {
 				"type": "item",
@@ -44,7 +43,6 @@
 	},
 	{
 		"ingredientPattern": "SSC,SS_",
-		"requiresTrait": "mason",
 		"ingredients": {
 			"C": {
 				"type": "item",
@@ -91,7 +89,6 @@
 	},
 	{
 		"ingredientPattern": "SS_,SCS,SSS",
-		"requiresTrait": "mason",
 		"ingredients": {
 			"C": {
 				"type": "item",
@@ -138,7 +135,6 @@
 	},
 	{
 		"ingredientPattern": "SSS,_C_",
-		"requiresTrait": "mason",
 		"ingredients": {
 			"C": {
 				"type": "item",
@@ -185,7 +181,6 @@
 	},
 	{
 		"ingredientPattern": "ZGX,ABC,NSG",
-		"requiresTrait": "mason",
 		"ingredients": {
 			"Z": {
 				"type": "block",
@@ -262,7 +257,6 @@
 	},
 	{
 		"ingredientPattern": "LLL,SLG,LLL",
-		"requiresTrait": "mason",
 		"ingredients": {
 			"S": {
 				"type": "block",
@@ -299,7 +293,6 @@
 	},
 	{
 		"ingredientPattern": "LLL,SLG,LLL",
-		"requiresTrait": "mason",
 		"ingredients": {
 			"S": {
 				"type": "block",
@@ -335,7 +328,6 @@
 	},
 	{
 		"ingredientPattern": "LLL,SLG,LLL",
-		"requiresTrait": "mason",
 		"ingredients": {
 			"S": {
 				"type": "block",
@@ -372,7 +364,6 @@
 	},
 	{
 		"ingredientPattern": "LLL,SLG,LLL",
-		"requiresTrait": "mason",
 		"ingredients": {
 			"S": {
 				"type": "block",
@@ -407,7 +398,6 @@
 	},
 	{
 		"ingredientPattern": "LLL,SLG,LLL",
-		"requiresTrait": "mason",
 		"ingredients": {
 			"S": {
 				"type": "block",
@@ -445,7 +435,6 @@
 	},
 	{
 		"ingredientPattern": "LLL,SLG,LLL",
-		"requiresTrait": "mason",
 		"ingredients": {
 			"S": {
 				"type": "block",
@@ -483,7 +472,6 @@
 	},
 	{
 		"ingredientPattern": "LLL,SLG,LLL",
-		"requiresTrait": "mason",
 		"ingredients": {
 			"S": {
 				"type": "block",
@@ -521,7 +509,6 @@
 	},
 	{
 		"ingredientPattern": "LLL,SLG,LLL",
-		"requiresTrait": "mason",
 		"ingredients": {
 			"S": {
 				"type": "block",
@@ -558,7 +545,6 @@
 	},
 	{
 		"ingredientPattern": "LLL,SLG,LLL",
-		"requiresTrait": "mason",
 		"ingredients": {
 			"S": {
 				"type": "block",
@@ -593,7 +579,6 @@
 	},
 	{
 		"ingredientPattern": "LLL,SLG,LLL",
-		"requiresTrait": "mason",
 		"ingredients": {
 			"S": {
 				"type": "block",
@@ -630,7 +615,6 @@
 	},
 	{
 		"ingredientPattern": "LLL,SLG,LLL",
-		"requiresTrait": "mason",
 		"ingredients": {
 			"S": {
 				"type": "block",
@@ -667,7 +651,6 @@
 	},
 	{
 		"ingredientPattern": "LLL,SLG,LLL",
-		"requiresTrait": "mason",
 		"ingredients": {
 			"S": {
 				"type": "block",
@@ -705,7 +688,6 @@
 	},
 	{
 		"ingredientPattern": "LLL,SLG,LLL",
-		"requiresTrait": "mason",
 		"ingredients": {
 			"S": {
 				"type": "block",
@@ -741,7 +723,6 @@
 	},
 	{
 		"ingredientPattern": "LLL,SLG,LLL",
-		"requiresTrait": "mason",
 		"ingredients": {
 			"S": {
 				"type": "block",
@@ -777,7 +758,6 @@
 	},
 	{
 		"ingredientPattern": "LLL,SLG,LLL",
-		"requiresTrait": "mason",
 		"ingredients": {
 			"S": {
 				"type": "block",
@@ -814,7 +794,6 @@
 	},
 	{
 		"ingredientPattern": "LLL,SLG,LLL",
-		"requiresTrait": "mason",
 		"ingredients": {
 			"S": {
 				"type": "block",
@@ -851,7 +830,6 @@
 	},
 	{
 		"ingredientPattern": "LLL,SLG,LLL",
-		"requiresTrait": "mason",
 		"ingredients": {
 			"S": {
 				"type": "block",
@@ -886,7 +864,6 @@
 	},
 	{
 		"ingredientPattern": "LLL,SLG,LLL",
-		"requiresTrait": "mason",
 		"ingredients": {
 			"S": {
 				"type": "block",
@@ -921,7 +898,6 @@
 	},
 	{
 		"ingredientPattern": "LLL,SLG,LLL",
-		"requiresTrait": "mason",
 		"ingredients": {
 			"S": {
 				"type": "block",
@@ -956,7 +932,6 @@
 	},
 	{
 		"ingredientPattern": "LLL,LLL,LCL",
-		"requiresTrait": "mason",
 		"ingredients": {
 			"L": {
 				"type": "item",
@@ -983,7 +958,6 @@
 	},
 	{
 		"ingredientPattern": "ABC,DEF,GHI",
-		"requiresTrait": "mason",
 		"ingredients": {
 			"A": {
 				"type": "item",
@@ -1036,7 +1010,6 @@
 	},
 	{
 		"ingredientPattern": "_L_,LLL,LLL",
-		"requiresTrait": "mason",
 		"ingredients": {
 			"L": {
 				"type": "item",
@@ -1056,7 +1029,6 @@
 	},
 	{
 		"ingredientPattern": "AHB,CDE,FGI",
-		"requiresTrait": "mason",
 		"ingredients": {
 			"A": {
 				"type": "item",
@@ -1107,7 +1079,6 @@
 	},
 	{
 		"ingredientPattern": "H_,C_,SS",
-		"requiresTrait": "mason",
 		"ingredients": {
 			"H": {
 				"type": "item",

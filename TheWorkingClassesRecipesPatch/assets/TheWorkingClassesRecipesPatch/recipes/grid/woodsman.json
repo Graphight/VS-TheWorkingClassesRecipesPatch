@@ -1,7 +1,6 @@
 [
 	{
 		"ingredientPattern": "AWS",
-		"requiresTrait": "woodsman",
 		"ingredients": {
 			"A": {
 				"type": "item",
@@ -29,7 +28,6 @@
 	},
 	{
 		"ingredientPattern": "AW",
-		"requiresTrait": "woodsman",
 		"ingredients": {
 			"A": {
 				"type": "item",

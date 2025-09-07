@@ -1,7 +1,6 @@
 [
 	{
 		"ingredientPattern": "HS,CF,_R",
-		"requiresTrait": "tinkerer",
 		"ingredients": {
 			"H": {
 				"type": "item",
@@ -40,7 +39,6 @@
 	},
 	{
 		"ingredientPattern": "HS,CF,_R",
-		"requiresTrait": "tinkerer",
 		"ingredients": {
 			"H": {
 				"type": "item",
@@ -80,7 +78,6 @@
 
 	{
 		"ingredientPattern": "HCR,PA_,_F_",
-		"requiresTrait": "tinkerer",
 		"ingredients": {
 			"H": {
 				"type": "item",
@@ -126,7 +123,6 @@
 
 	{
 		"ingredientPattern": "HCX,PAS,R_F",
-		"requiresTrait": "tinkerer",
 		"ingredients": {
 			"H": {
 				"type": "item",
@@ -182,7 +178,6 @@
 	},
 	{
 		"ingredientPattern": "HCX,PAS,R_F",
-		"requiresTrait": "tinkerer",
 		"ingredients": {
 			"H": {
 				"type": "item",
@@ -239,7 +234,6 @@
 
 	{
 		"ingredientPattern": "HCX,GPG,R_F",
-		"requiresTrait": "tinkerer",
 		"ingredients": {
 			"H": {
 				"type": "item",
@@ -291,7 +285,6 @@
 
 	{
 		"ingredientPattern": "PXP,RSF",
-		"requiresTrait": "tinkerer",
 		"ingredients": {
 			"X": {
 				"type": "item",
@@ -327,7 +320,6 @@
 	},
 	{
 		"ingredientPattern": "PXP,RSF",
-		"requiresTrait": "tinkerer",
 		"ingredients": {
 			"X": {
 				"type": "item",

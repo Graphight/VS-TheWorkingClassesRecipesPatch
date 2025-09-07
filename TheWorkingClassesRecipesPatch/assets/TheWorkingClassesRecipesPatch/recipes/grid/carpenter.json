@@ -1,7 +1,6 @@
 [
 	{
 		"ingredientPattern": "SLL",
-		"requiresTrait": "carpenter",
 		"ingredients": {
 			"S": {
 				"type": "item",
@@ -41,7 +40,6 @@
 	},
 	{
 		"ingredientPattern": "SLL",
-		"requiresTrait": "carpenter",
 		"ingredients": {
 			"S": {
 				"type": "item",
@@ -81,7 +79,6 @@
 	},
 	{
 		"ingredientPattern": "PYP,YTY,PYP",
-		"requiresTrait": "carpenter",
 		"ingredients": {
 			"P": {
 				"type": "item",

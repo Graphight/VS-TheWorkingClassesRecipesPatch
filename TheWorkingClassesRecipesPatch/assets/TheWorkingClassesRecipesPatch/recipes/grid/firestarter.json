@@ -1,7 +1,6 @@
 [
 	{
 		"ingredientPattern": "GFG,RPR",
-		"requiresTrait": "firestarter",
 		"ingredients": {
 			"G": {
 				"type": "item",

@@ -2,7 +2,6 @@
 
     {
         "ingredientPattern": "H_,PP,PP",
-        "requiresTrait": "fitter",
         "ingredients": {
             "H": {
                 "type": "item",
@@ -41,7 +40,6 @@
     },
     {
         "ingredientPattern": "_S,PP,PP",
-        "requiresTrait": "fitter",
         "ingredients": {
             "S": {
                 "type": "item",
@@ -81,7 +79,6 @@
     },
     {
         "ingredientPattern": "HS,PP,PP",
-        "requiresTrait": "fitter",
         "ingredients": {
             "H": {
                 "type": "item",
@@ -126,7 +123,6 @@
     },
     {
         "ingredientPattern": "H__,_PP,PP_",
-        "requiresTrait": "fitter",
         "ingredients": {
             "H": {
                 "type": "item",
@@ -165,7 +161,6 @@
     },
     {
         "ingredientPattern": "HS_,_PP,PP_",
-        "requiresTrait": "fitter",
         "ingredients": {
             "H": {
                 "type": "item",

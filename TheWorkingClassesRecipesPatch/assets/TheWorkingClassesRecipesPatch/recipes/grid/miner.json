@@ -1,7 +1,6 @@
 [
   {
     "ingredientPattern": "H,P",
-    "requiresTrait": "prospector",
     "ingredients": {
       "P": {
         "type": "item",
@@ -25,7 +24,6 @@
   },
   {
     "ingredientPattern": "_B_,WFT,_P_",
-    "requiresTrait": "prospector",
     "ingredients": {
       "B": {
         "type": "item",
@@ -64,7 +62,6 @@
   },
   {
     "ingredientPattern": "B_,FT,M_",
-    "requiresTrait": "prospector",
     "ingredients": {
       "B": {
         "type": "item",

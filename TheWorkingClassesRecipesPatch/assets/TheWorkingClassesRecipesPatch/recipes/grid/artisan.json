@@ -1,7 +1,6 @@
 [
 	{
 		"ingredientPattern": "BDH,VDD,GDH",
-		"requiresTrait": "artisan",
 		"ingredients": {
 			"B": {
 				"type": "block",
@@ -48,7 +47,6 @@
 	},
 	{
 		"ingredientPattern": "BDH,VDD,GDH",
-		"requiresTrait": "artisan",
 		"ingredients": {
 			"B": {
 				"type": "block",
@@ -95,7 +93,6 @@
 	},
 	{
 		"ingredientPattern": "BDH,VMM,GDH",
-		"requiresTrait": "artisan",
 		"ingredients": {
 			"B": {
 				"type": "block",
@@ -146,7 +143,6 @@
 	},
 	{
 		"ingredientPattern": "BDH,VDD,GDH",
-		"requiresTrait": "artisan",
 		"ingredients": {
 			"B": {
 				"type": "block",
@@ -193,7 +189,6 @@
 	},
 	{
 		"ingredientPattern": "BDH,VDD,GDH",
-		"requiresTrait": "artisan",
 		"ingredients": {
 			"B": {
 				"type": "block",
@@ -240,7 +235,6 @@
 	},
 	{
 		"ingredientPattern": "BDH,VDD,GDH",
-		"requiresTrait": "artisan",
 		"ingredients": {
 			"B": {
 				"type": "block",
@@ -287,7 +281,6 @@
 	},
 	{
 		"ingredientPattern": "BTH,VDD,GMH",
-		"requiresTrait": "artisan",
 		"ingredients": {
 			"B": {
 				"type": "block",
@@ -342,7 +335,6 @@
 	},
 	{
 		"ingredientPattern": "BDH,VDD,GDH",
-		"requiresTrait": "artisan",
 		"ingredients": {
 			"B": {
 				"type": "block",
@@ -389,7 +381,6 @@
 	},
 	{
 		"ingredientPattern": "BDH,VDD,GDH",
-		"requiresTrait": "artisan",
 		"ingredients": {
 			"B": {
 				"type": "block",
@@ -436,7 +427,6 @@
 	},
 	{
 		"ingredientPattern": "BDD,VHH,GDD",
-		"requiresTrait": "artisan",
 		"ingredients": {
 			"B": {
 				"type": "block",
@@ -483,7 +473,6 @@
 	},
 	{
 		"ingredientPattern": "BDD,VHH,GDD",
-		"requiresTrait": "artisan",
 		"ingredients": {
 			"B": {
 				"type": "block",
@@ -530,7 +519,6 @@
 	},
 	{
 		"ingredientPattern": "BTH,VDD,GMH",
-		"requiresTrait": "artisan",
 		"ingredients": {
 			"B": {
 				"type": "block",
@@ -585,7 +573,6 @@
 	},
 	{
 		"ingredientPattern": "BDH,VDD,GDH",
-		"requiresTrait": "artisan",
 		"ingredients": {
 			"B": {
 				"type": "block",
@@ -632,7 +619,6 @@
 	},
 	{
 		"ingredientPattern": "BDH,VDD,GDH",
-		"requiresTrait": "artisan",
 		"ingredients": {
 			"B": {
 				"type": "block",
@@ -683,7 +669,6 @@
 	},
 	{
 		"ingredientPattern": "BDH,VDD,GMH",
-		"requiresTrait": "artisan",
 		"ingredients": {
 			"B": {
 				"type": "block",
@@ -734,7 +719,6 @@
 	},
 	{
 		"ingredientPattern": "BDH,VDM,GDH",
-		"requiresTrait": "artisan",
 		"ingredients": {
 			"B": {
 				"type": "block",
@@ -785,7 +769,6 @@
 	},
 	{
 		"ingredientPattern": "BDH,VDD,GDH",
-		"requiresTrait": "artisan",
 		"ingredients": {
 			"B": {
 				"type": "block",
@@ -832,7 +815,6 @@
 	},
 	{
 		"ingredientPattern": "B__,VDM,GDH",
-		"requiresTrait": "artisan",
 		"ingredients": {
 			"B": {
 				"type": "block",
@@ -883,7 +865,6 @@
 	},
 	{
 		"ingredientPattern": "B__,VDM,GDH",
-		"requiresTrait": "artisan",
 		"ingredients": {
 			"B": {
 				"type": "block",
@@ -934,7 +915,6 @@
 	},
 	{
 		"ingredientPattern": "B__,VDH,GDH",
-		"requiresTrait": "artisan",
 		"ingredients": {
 			"B": {
 				"type": "block",
@@ -981,7 +961,6 @@
 	},
 	{
 		"ingredientPattern": "B__,VDH,GDH",
-		"requiresTrait": "artisan",
 		"ingredients": {
 			"B": {
 				"type": "block",
@@ -1028,7 +1007,6 @@
 	},
 	{
 		"ingredientPattern": "B__,VDH,GDH",
-		"requiresTrait": "artisan",
 		"ingredients": {
 			"B": {
 				"type": "block",
@@ -1075,7 +1053,6 @@
 	},
 	{
 		"ingredientPattern": "B__,VDH,GDH",
-		"requiresTrait": "artisan",
 		"ingredients": {
 			"B": {
 				"type": "block",
@@ -1122,7 +1099,6 @@
 	},
 	{
 		"ingredientPattern": "B__,VDM,GDH",
-		"requiresTrait": "artisan",
 		"ingredients": {
 			"B": {
 				"type": "block",
@@ -1173,7 +1149,6 @@
 	},
 	{
 		"ingredientPattern": "B__,VDH,GDH",
-		"requiresTrait": "artisan",
 		"ingredients": {
 			"B": {
 				"type": "block",
@@ -1220,7 +1195,6 @@
 	},
 	{
 		"ingredientPattern": "B__,VDD,GDH",
-		"requiresTrait": "artisan",
 		"ingredients": {
 			"B": {
 				"type": "block",
@@ -1267,7 +1241,6 @@
 	},
 	{
 		"ingredientPattern": "B__,VDD,GHH",
-		"requiresTrait": "artisan",
 		"ingredients": {
 			"B": {
 				"type": "block",
@@ -1314,7 +1287,6 @@
 	},
 	{
 		"ingredientPattern": "B__,VDM,GDH",
-		"requiresTrait": "artisan",
 		"ingredients": {
 			"B": {
 				"type": "block",
@@ -1365,7 +1337,6 @@
 	},
 	{
 		"ingredientPattern": "B_,VD,GH",
-		"requiresTrait": "artisan",
 		"ingredients": {
 			"B": {
 				"type": "block",
@@ -1412,7 +1383,6 @@
 	},
 	{
 		"ingredientPattern": "B_,VD,GH",
-		"requiresTrait": "artisan",
 		"ingredients": {
 			"B": {
 				"type": "block",
@@ -1459,7 +1429,6 @@
 	},
 	{
 		"ingredientPattern": "B_,VD,GH",
-		"requiresTrait": "artisan",
 		"ingredients": {
 			"B": {
 				"type": "block",
@@ -1506,7 +1475,6 @@
 	},
 	{
 		"ingredientPattern": "B_,VD,GH",
-		"requiresTrait": "artisan",
 		"ingredients": {
 			"B": {
 				"type": "block",
@@ -1553,7 +1521,6 @@
 	},
 	{
 		"ingredientPattern": "B_,VD,GH",
-		"requiresTrait": "artisan",
 		"ingredients": {
 			"B": {
 				"type": "block",
@@ -1600,7 +1567,6 @@
 	},
 	{
 		"ingredientPattern": "B_,VD,GH",
-		"requiresTrait": "artisan",
 		"ingredients": {
 			"B": {
 				"type": "block",
@@ -1647,7 +1613,6 @@
 	},
 	{
 		"ingredientPattern": "B_,VD,GH",
-		"requiresTrait": "artisan",
 		"ingredients": {
 			"B": {
 				"type": "block",
@@ -1694,7 +1659,6 @@
 	},
 	{
 		"ingredientPattern": "B_,VD,GH",
-		"requiresTrait": "artisan",
 		"ingredients": {
 			"B": {
 				"type": "block",
@@ -1741,7 +1705,6 @@
 	},
 	{
 		"ingredientPattern": "B_,VD,GH",
-		"requiresTrait": "artisan",
 		"ingredients": {
 			"B": {
 				"type": "block",
@@ -1788,7 +1751,6 @@
 	},
 	{
 		"ingredientPattern": "B_,VD,GH",
-		"requiresTrait": "artisan",
 		"ingredients": {
 			"B": {
 				"type": "block",

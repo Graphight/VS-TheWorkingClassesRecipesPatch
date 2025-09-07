@@ -1,7 +1,6 @@
 [
 	{
 		"ingredientPattern": "_H,SR",
-		"requiresTrait": "tinkerer",
 		"ingredients": {
 			"H": {
 				"type": "item",
@@ -29,7 +28,6 @@
 	},
 	{
 		"ingredientPattern": "S,T",
-		"requiresTrait": "tinkerer",
 		"ingredients": {
 			"S": {
 				"type": "block",
@@ -52,7 +50,6 @@
 	},
 	{
 		"ingredientPattern": "C_C,_I_",
-		"requiresTrait": "tinkerer",
 		"ingredients": {
 			"I": {
 				"type": "item",
@@ -73,7 +70,6 @@
 	},
 	{
 		"ingredientPattern": "XS,CH",
-		"requiresTrait": "tinkerer",
 		"ingredients": {
 			"H": {
 				"type": "item",
@@ -105,7 +101,6 @@
 	},
 	{
 		"ingredientPattern": "XH,CS",
-		"requiresTrait": "tinkerer",
 		"ingredients": {
 			"H": {
 				"type": "item",
@@ -137,7 +132,6 @@
 	},
 	{
 		"ingredientPattern": "IH,_I",
-		"requiresTrait": "tinkerer",
 		"ingredients": {
 			"H": {
 				"type": "item",
@@ -160,7 +154,6 @@
 	},
 	{
 		"ingredientPattern": "IHI",
-		"requiresTrait": "tinkerer",
 		"ingredients": {
 			"H": {
 				"type": "item",
@@ -183,7 +176,6 @@
 	},
 	{
 		"ingredientPattern": "_I_,IHI,_I_",
-		"requiresTrait": "tinkerer",
 		"ingredients": {
 			"H": {
 				"type": "item",
@@ -206,7 +198,6 @@
 	},
 	{
 		"ingredientPattern": "_I_,IHI",
-		"requiresTrait": "tinkerer",
 		"ingredients": {
 			"H": {
 				"type": "item",
@@ -229,7 +220,6 @@
 	},
 	{
 		"ingredientPattern": "HI_,II_",
-		"requiresTrait": "tinkerer",
 		"ingredients": {
 			"H": {
 				"type": "item",

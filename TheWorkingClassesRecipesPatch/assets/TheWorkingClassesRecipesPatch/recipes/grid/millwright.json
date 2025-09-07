@@ -1,7 +1,6 @@
 [
 	{
 		"ingredientPattern": "HC_,RSF",
-		"requiresTrait": "millwright",
 		"ingredients": {
 			"H": {
 				"type": "item",
@@ -40,7 +39,6 @@
 	},
 	{
 		"ingredientPattern": "HC_,RSF",
-		"requiresTrait": "millwright",
 		"ingredients": {
 			"H": {
 				"type": "item",
@@ -82,7 +80,6 @@
 
 	{
 		"ingredientPattern": "H_,SF",
-		"requiresTrait": "millwright",
 		"ingredients": {
 			"H": {
 				"type": "item",
@@ -110,7 +107,6 @@
 	},
 	{
 		"ingredientPattern": "H_,SF",
-		"requiresTrait": "millwright",
 		"ingredients": {
 			"H": {
 				"type": "item",
@@ -139,7 +135,6 @@
 
 	{
 		"ingredientPattern": "HCX,PRS,A_A",
-		"requiresTrait": "millwright",
 		"ingredients": {
 			"H": {
 				"type": "item",
@@ -194,7 +189,6 @@
 
 	{
 		"ingredientPattern": "H_P,CP_,PR_",
-		"requiresTrait": "millwright",
 		"ingredients": {
 			"H": {
 				"type": "item",
@@ -232,7 +226,6 @@
 
 	{
 		"ingredientPattern": "PLP,PSP,PRP",
-		"requiresTrait": "millwright",
 		"ingredients": {
 			"S": {
 				"type": "item",
